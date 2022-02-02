@@ -3,3 +3,5 @@
 Test on GitHub add a README file
 
 I like an apple
+
+I love ⚾ 🍔 🍺
